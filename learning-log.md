@@ -11,4 +11,7 @@ I'm learning Git and version control to track my work.
 - Push my work to GitHub
 
 ## What I learned Today 
+
 -Git tracks changes to files over time
+-Brances let you experiement without affecting the main resources
+-you can merge brances together when they are ready\
